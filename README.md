@@ -1,7 +1,9 @@
 # byweekly
 Deepika2001
-using System;
+to calculate remaining amount.
 
+
+using System;
 
 class Program
 {
